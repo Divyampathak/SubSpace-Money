@@ -1,4 +1,4 @@
-# Subspace.money — Product Teardown
+# Subspace.money Product Teardown
 
 A structured product teardown of [Subspace.money](https://subspace.money), an Indian subscription management and sharing marketplace. The analysis covers competitive positioning, feature gaps, and go-to-market issues, with prioritised recommendations for each.
 
